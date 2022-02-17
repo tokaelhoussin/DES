@@ -1,0 +1,4 @@
+﻿  1700384.cpp
+c:\users\as\documents\visual studio 2015\projects\1700384\1700384\1700384.cpp(22): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  1700384.vcxproj -> C:\Users\as\Documents\Visual Studio 2015\Projects\1700384\Debug\1700384.exe
+  1700384.vcxproj -> C:\Users\as\Documents\Visual Studio 2015\Projects\1700384\Debug\1700384.pdb (Full PDB)
